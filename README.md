@@ -48,7 +48,7 @@ I also have other txt files with test information for the different tests I have
 ### Why C# and service/controller architecture
 I chose to do this in C# because it is my favourite programming language and I think it is quite robust and is quite world wide used nowadays.
 
-![](https://github.com/jbasmut/ADCenterNetworkCodeChallenge/blob/master/C_Sharp_wordmark.svg)
+<img src="https://github.com/jbasmut/ADCenterNetworkCodeChallenge/blob/master/C_Sharp_wordmark.svg" alt="drawing" width="200"/>
 
 I chose service/controller architecture due to I think with it we could use these services with any frontend we would like if we would decide to provide one, for example you could program the frontend in ASP.NET, in Angular, in Blazor... and with any of those or most of others you could call the services I programmed and your application would work.
 I chose .NET 5.0 because is the latest and so this solution would have the latest updates from Microsoft.
