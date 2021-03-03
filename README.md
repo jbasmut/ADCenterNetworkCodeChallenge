@@ -58,7 +58,7 @@ C# is a general-purpose, multi-paradigm programming language encompassing static
 C# was developed around 2000 by Microsoft as part of its .NET initiative and later approved as an international standard by Ecma (ECMA-334) in 2002 and ISO (ISO/IEC 23270) in 2003.
 
 ### Build & Test status
-![Main build and test](https://github.com/ivanderk/gene_code_proc/actions/workflows/dotnet.yml/badge.svg)
+![Main build and test](https://github.com/jbasmut/ADCenterNetworkCodeChallenge/blob/master/badge.svg)
 
 ### License
 [https://img.shields.io/badge/License-Apache%202.0-blue.svg](https://opensource.org/licenses/Apache-2.0)
