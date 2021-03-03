@@ -64,7 +64,7 @@ C# was developed around 2000 by Microsoft as part of its .NET initiative and lat
 [https://img.shields.io/badge/License-Apache%202.0-blue.svg](https://opensource.org/licenses/Apache-2.0)
 <p><a href="https://opensource.org/licenses/Apache-2.0" rel="nofollow"><img src="https://camo.githubusercontent.com/2a2157c971b7ae1deb8eb095799440551c33dcf61ea3d965d86b496a5a65df55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d417061636865253230322e302d626c75652e737667" alt="License" data-canonical-src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" style="max-width:100%;"></a></p>
 
-Copyright © 2021 Iwan van der Kleijn
+Copyright © 2021 Juan Javier Bas Mut
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
