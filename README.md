@@ -10,15 +10,15 @@ This projects needs .NET 5.0 in order to be compiled and run successfully. NET 5
 ### Compile and run 
 Opening with Visual Studio de solution by clicking in the file ADCenterNetworkCodeChallenge.sln located in the root directory and clicking in the menu build/build solution:
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Compile](https://github.com/jbasmut/ADCenterNetworkCodeChallenge/blob/master/Compile%20Project.PNG)
 
 All unit-tests can be run with Visual Studio by doing right click on the Test project of the solution, opening the Tests Panel and running the tests:
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Tests](https://github.com/jbasmut/ADCenterNetworkCodeChallenge/blob/master/Tests.PNG)
 
 The executable can be run with Visual Studio opening the solution and clicking in the green arrow to execute IIS Express.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Execute](https://github.com/jbasmut/ADCenterNetworkCodeChallenge/blob/master/Execute%20IIS.PNG)
 
 Once the swagger opens in your favourite project you will find two services to use:
 
@@ -26,21 +26,21 @@ Once the swagger opens in your favourite project you will find two services to u
 
 With this service you will be able to copy paste a string with the mRNA sequence and it will return when you push in the execute button all the DNA strings that are there or an error.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Swagger1](https://github.com/jbasmut/ADCenterNetworkCodeChallenge/blob/master/Swagger1PNG.PNG)
 
 It will show the results as follows:
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Swagger2](https://github.com/jbasmut/ADCenterNetworkCodeChallenge/blob/master/Swagger2PNG.PNG)
 
 #### Sequence_mRNAStream
 
 With this service you will be able to insert a path to a txt file where a mRNA sequence is located and to introduce as well the position of the DNA string you want to recover and it will return when you push in the execute button the DNA string in the position you introduced that is there or an error.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Swagger3](https://github.com/jbasmut/ADCenterNetworkCodeChallenge/blob/master/Swagger3PNG.PNG)
 
 It will show the results as follows:
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Swagger4](https://github.com/jbasmut/ADCenterNetworkCodeChallenge/blob/master/Swagger4PNG.PNG)
 
 Note that the sample file is refMrna.fa.corrected.txt which is valid. The original file refMrna.fa.txt can be used but contains (intentionally) coding errors.
 I also have other txt files with test information for the different tests I have, the titles of them are quite meaningful.
