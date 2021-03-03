@@ -48,7 +48,7 @@ I also have other txt files with test information for the different tests I have
 ### Why C# and service/controller architecture
 I chose to do this in C# because it is my favourite programming language and I think it is quite robust and is quite world wide used nowadays.
 
-![C#](doc/fsharp128.png)
+![](https://github.com/jbasmut/ADCenterNetworkCodeChallenge/blob/master/C_Sharp_wordmark.svg)
 
 I chose service/controller architecture due to I think with it we could use these services with any frontend we would like if we would decide to provide one, for example you could program the frontend in ASP.NET, in Angular, in Blazor... and with any of those or most of others you could call the services I programmed and your application would work.
 I chose .NET 5.0 because is the latest and so this solution would have the latest updates from Microsoft.
@@ -58,7 +58,7 @@ C# is a general-purpose, multi-paradigm programming language encompassing static
 C# was developed around 2000 by Microsoft as part of its .NET initiative and later approved as an international standard by Ecma (ECMA-334) in 2002 and ISO (ISO/IEC 23270) in 2003.
 
 ### Build & Test status
-![Main build and test](https://github.com/ivanderk/gene_code_proc/actions/workflows/dotnet.yml/badge.svg)
+![Main build and test](https://github.com/jbasmut/ADCenterNetworkChallenge/C_Sharp_wordmark.svg)
 
 ### License
 [https://img.shields.io/badge/License-Apache%202.0-blue.svg](https://opensource.org/licenses/Apache-2.0)
