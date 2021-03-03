@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jbasmut\\OneDrive - Capgemini\\Documents\\Code Challenge\\App\\ADCenterNetworkCodeChallenge\\TestADCenterNetworkCodeChallenge\\TestADCenterNetworkCodeChallenge.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jbasmut\\OneDrive - Capgemini\\Documents\\Code Challenge\\App\\ADCenterNetworkCodeChallenge\\ADCenterNetworkCodeChallenge\\ADCenterNetworkCodeChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jbasmut\\OneDrive - Capgemini\\Documents\\Code Challenge\\App\\ADCenterNetworkCodeChallenge\\ADCenterNetworkCodeChallenge\\ADCenterNetworkCodeChallenge.csproj",
+        "projectName": "ADCenterNetworkCodeChallenge",
+        "projectPath": "C:\\Users\\jbasmut\\OneDrive - Capgemini\\Documents\\Code Challenge\\App\\ADCenterNetworkCodeChallenge\\ADCenterNetworkCodeChallenge\\ADCenterNetworkCodeChallenge.csproj",
+        "packagesPath": "C:\\Users\\jbasmut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jbasmut\\OneDrive - Capgemini\\Documents\\Code Challenge\\App\\ADCenterNetworkCodeChallenge\\ADCenterNetworkCodeChallenge\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jbasmut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sogetifactory.pkgs.visualstudio.com/_packaging/Coco_Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jbasmut\\OneDrive - Capgemini\\Documents\\Code Challenge\\App\\ADCenterNetworkCodeChallenge\\TestADCenterNetworkCodeChallenge\\TestADCenterNetworkCodeChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jbasmut\\OneDrive - Capgemini\\Documents\\Code Challenge\\App\\ADCenterNetworkCodeChallenge\\TestADCenterNetworkCodeChallenge\\TestADCenterNetworkCodeChallenge.csproj",
+        "projectName": "TestADCenterNetworkCodeChallenge",
+        "projectPath": "C:\\Users\\jbasmut\\OneDrive - Capgemini\\Documents\\Code Challenge\\App\\ADCenterNetworkCodeChallenge\\TestADCenterNetworkCodeChallenge\\TestADCenterNetworkCodeChallenge.csproj",
+        "packagesPath": "C:\\Users\\jbasmut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jbasmut\\OneDrive - Capgemini\\Documents\\Code Challenge\\App\\ADCenterNetworkCodeChallenge\\TestADCenterNetworkCodeChallenge\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jbasmut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sogetifactory.pkgs.visualstudio.com/_packaging/Coco_Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jbasmut\\OneDrive - Capgemini\\Documents\\Code Challenge\\App\\ADCenterNetworkCodeChallenge\\ADCenterNetworkCodeChallenge\\ADCenterNetworkCodeChallenge.csproj": {
+                "projectPath": "C:\\Users\\jbasmut\\OneDrive - Capgemini\\Documents\\Code Challenge\\App\\ADCenterNetworkCodeChallenge\\ADCenterNetworkCodeChallenge\\ADCenterNetworkCodeChallenge.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
